@@ -1,0 +1,5 @@
+Equipment and Labour Constraints: Scheduling and identifying the labour and equipment will also act as a constraint. Since a labour might not be required across the entire duration of project or the operation of an equipment needs a special skilled labour, both might not available be at the same time.
+
+Environmental Constraints: Completing the project in early fall might have potential risks of bad weather on the bridge construction. 
+
+Budget Constraints : All the above constraints will have an impact on budget constraint, since the preplanned budget allocated to project will get extended if the project did not complete on time.

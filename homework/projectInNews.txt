@@ -1,0 +1,59 @@
+Hello Everyone!
+
+I would like to present two projects for the assignment. One from workplace and one in the news. 
+
+1) Workplace Project:
+
+Oracle Database Upgrade from a lower version(11g) to latest version(12c)
+
+Clear objective : To upgrade the product database from Oracle lower version (11g) to latest version (12c) to enable powerful features does bringing in better performance and efficiency for customers
+
+Series of interdependent activities: 
+
+Multiple teams to be involved during the entire project
+
+Database team / Project team - upgrade the database
+Development team - review existing code in order to ensure compatibility
+Testing/Quality Team - test each and every functionality in order to make sure all the modules perform as per expectation 
+Various resources: Product and development experts for technical and business decision making
+
+Specific time frame: Project expected to be completed in 12 weeks
+
+Unique, one-time endeavor: First time product database version upgrade activity conducted ensuring no impact on business 
+
+Sponsor or customer: Product organization
+
+Degree of uncertainty: Chances of compatibility issues with existing code, product stability
+
+
+
+2) In the news project:
+
+India's first coal gasification based fertilizer plant
+
+Clear objective: To develop a fertilizer plant to use coal gasification technology, that will produce gas using coal which is likely to be adopted by refineries and power plants to lower their emissions.
+
+Series of interdependent activities : 
+
+Government of India to approve policy for new investments in the sector
+The Cabinet committee on Economic Affairs approve Joint Venture Consortium by Rashtriya Chemicals & Fertilizers Ltd , Coal India Ltd., GAIL (India) Limited and Fertilizer Corporation of India Limited in the name of Talcher Fertilizers Limited (TFL)
+Clearance from Ministry of Environment and Forests & Climate Change on the recommendations of an Expert Appraisal Committee 
+TFL to set up coal based fertilizer plant for production along with necessary offsite and utility facilities
+Various resources : 
+
+Public Sector Units under the Ministry of Chemicals & Fertilizers
+Public sector Units under the Ministry of Petroleum & Natural Gas, Govt. of India
+550 operating personnel required to operate plant and storage facilities
+Specific time frame : The plant is targeted to be commissioned by 2022
+
+Unique, one-time endeavor : Making the country self-sufficient in the production of fertilizers and reduce dependence on urea and gas imports
+
+Sponsor or customer : Government of India
+
+Ref:
+
+https://www.business-standard.com/article/news-cm/gail-india-update-on-india-s-first-coal-gasification-based-fertilizer-plant-at-talcher-118092400251_1.html
+http://environmentclearance.nic.in/writereaddata/Online/TOR/19_May_2017_170406083Q2BUGJ2ABRIEFSUMMARY.pdf
+
+
+Thanks!

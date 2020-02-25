@@ -1,0 +1,38 @@
+I have worked on a project where i experienced poor project initiation.
+
+The project was to upgrade infrastructure system of a product which will provide better performance and new features to the product end user.
+
+
+Below were the mistakes which took place.
+
+1) No kick-off meeting
+
+2) Project objective was not clear with the project team and the stakeholders
+
+3) No involvement of team members who were actually going to work on the project
+
+4) Team members were not aware of there individual roles and responsibilities
+
+5) Unrealistic schedule
+
+6) Delay from third party vendor on timely deliverables of resources
+
+7) No communication between the dependent teams
+
+8) Activities were not identified.
+
+9) No reporting period for comparing actual progress with planned progress
+
+In order to resolve these mistakes management did following things
+
+1) Proper project objective was defined
+
+2) Key team members were involved
+
+3) Activities identified and prioritized
+
+4) Responsibilities assigned
+
+5) Proper communication among the teams involved established
+
+6) Regular meetings were setup to monitor the progress 
